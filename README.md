@@ -1,7 +1,6 @@
 # Machine-Learning-Project
 
 
-Sure, I can help you write a repository description for your machine learning projects. Here's a sample description you can use:
 
 Welcome to the Machine Learning Repository!
 
@@ -15,9 +14,11 @@ Linear regression
 Logistic regression
 Random forest classification
 Support vector machines
+Bagging and Boosting
 K-means clustering
 
-All projects are written in Python and utilize popular machine learning libraries such as scikit-learn, TensorFlow, and Keras. The code is well-documented and organized, making it easy to modify and build upon for your own projects.
+
+All projects are written in Python and utilize popular machine learning libraries such as scikit-learn,pandas, numpy,matplotlib,seaborn,scipy . The code is well-documented and organized, making it easy to modify and build upon for your own projects.
 
 We welcome contributions from the community, whether it's bug fixes, new features, or entirely new projects. Feel free to open an issue or submit a pull request if you have any suggestions or feedback.
 
